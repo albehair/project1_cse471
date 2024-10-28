@@ -1,0 +1,13 @@
+<score bpm="120" beatspermeasure="4">
+	<instrument instrument="AdditiveSynth">
+		<note measure="1" beat="1" duration="4" note="C4" attack="0.1" decay="0.1" sustain="0.8" release="0.2" vibratoRate="5" vibratoDepth="10" effectSend="0.5">
+			<harmonics>1.0 0.5 0.25 0.125 0.0625</harmonics>
+		</note>
+		<note measure="2" beat="1" duration="4" note="E4" attack="0.1" decay="0.1" sustain="0.8" release="0.2" vibratoRate="5" vibratoDepth="10" effectSend="0.5">
+			<harmonics>1.0 0.4 0.2 0.1 0.05</harmonics>
+		</note>
+		<note measure="3" beat="1" duration="4" note="G4" attack="0.1" decay="0.1" sustain="0.8" release="0.2" vibratoRate="5" vibratoDepth="10" effectSend="0.5">
+			<harmonics>1.0 0.3 0.15 0.075 0.0375</harmonics>
+		</note>
+	</instrument>
+</score>

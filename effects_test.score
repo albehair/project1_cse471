@@ -1,0 +1,10 @@
+<score bpm="120" beatspermeasure="4">
+    <effects>
+        <effect type="echo" delay="0.7" wetLevel="0.6" />
+    </effects>
+    <instrument instrument="AdditiveSynth">
+        <note measure="1" beat="1" duration="12" note="A3" attack="0.05" decay="0.1" sustain="0.7" release="0.2" vibratoRate="6" vibratoDepth="5" effectSend="1.0">
+            <harmonics>1.0 0.8 0.6 0.4 0.2</harmonics>
+        </note>
+    </instrument>
+</score>
